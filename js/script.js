@@ -271,7 +271,7 @@
 
 			nav:true,
 
-			smartSpeed: 700,
+			smartSpeed: 300,
 
 			autoplay: true,
 
